@@ -3,5 +3,5 @@ Pluslab at AIT
 
 # 2024年度 応募作品
 - nanoRelation
-- BathGuardDuck
+- おふろみまもりだっく
 - Leafonyを扱った環境測定デバイス
